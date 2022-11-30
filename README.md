@@ -4,6 +4,8 @@ Università degli Studi dell'Insubria - Laurea Triennale in Informatica - Anno A
 
 Autore: Bruscagin Paolo - Matricola: 744703
 
+Email: pbruscagin@studenti.uninsubria.it
+
 ![MyBeer scritta@6x_100](https://user-images.githubusercontent.com/84087640/204864540-2b534725-5972-4891-a5e6-fa450dbc539c.png)
 
 
