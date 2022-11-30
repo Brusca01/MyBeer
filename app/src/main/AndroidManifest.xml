@@ -6,15 +6,17 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/mybeer_scritta_6x"
+        android:icon="@mipmap/icona"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/mybeer_scritta_6x"
+        android:roundIcon="@mipmap/icona"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyBeer"
         tools:targetApi="31">
+
         <activity
             android:name=".SplashScreenActivity"
             android:theme="@style/SplashScreenTheme.MyBeer"
+
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
